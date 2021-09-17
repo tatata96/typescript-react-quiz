@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/typescript-react-quiz/static/js/main.3a1789de.chunk.js",
+    "main.js.map": "/typescript-react-quiz/static/js/main.3a1789de.chunk.js.map",
+    "runtime-main.js": "/typescript-react-quiz/static/js/runtime-main.dbd87e25.js",
+    "runtime-main.js.map": "/typescript-react-quiz/static/js/runtime-main.dbd87e25.js.map",
+    "static/js/2.bfdb91c9.chunk.js": "/typescript-react-quiz/static/js/2.bfdb91c9.chunk.js",
+    "static/js/2.bfdb91c9.chunk.js.map": "/typescript-react-quiz/static/js/2.bfdb91c9.chunk.js.map",
+    "index.html": "/typescript-react-quiz/index.html",
+    "static/js/2.bfdb91c9.chunk.js.LICENSE.txt": "/typescript-react-quiz/static/js/2.bfdb91c9.chunk.js.LICENSE.txt",
+    "static/media/back.a5890da4.jpg": "/typescript-react-quiz/static/media/back.a5890da4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd87e25.js",
+    "static/js/2.bfdb91c9.chunk.js",
+    "static/js/main.3a1789de.chunk.js"
+  ]
+}
